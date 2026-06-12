@@ -258,7 +258,7 @@ with tab1:
             return ''
 
         st.dataframe(
-            display.style.applymap(color_delta, subset=['Δ Qty','Δ Rev (Rp)'])
+            display.style.map(color_delta, subset=['Δ Qty','Δ Rev (Rp)'])
                          .format({'Base Qty': '{:,.0f}', 'Δ Qty': '{:+,.0f}',
                                   'Base Rev (Rp)': '{:,.0f}', 'Δ Rev (Rp)': '{:+,.0f}'}),
             use_container_width=True, height=400
