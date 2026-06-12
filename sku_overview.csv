@@ -1,0 +1,81 @@
+SKU_ID,SKU,Brand,SKU_Category,Branch,TotalQty,TotalRevenue,TotalTx,AvgDiscount,NormalPrice
+S001,Richeese Wafer Keju 50g,Richeese,Wafer,Bandung,4418,24156420.0,1341,0.054958985831469055,5800.0
+S001,Richeese Wafer Keju 50g,Richeese,Wafer,Jakarta,15175,83087320.0,4688,0.055140784982935155,5800.0
+S001,Richeese Wafer Keju 50g,Richeese,Wafer,Semarang,2737,15014460.0,864,0.05532407407407408,5800.0
+S001,Richeese Wafer Keju 50g,Richeese,Wafer,Surabaya,8191,44811960.0,2519,0.05537911869789599,5800.0
+S002,Richoco Wafer Cokelat 50g,Richoco,Wafer,Bandung,3246,17507300.0,1002,0.07275449101796408,5800.0
+S002,Richoco Wafer Cokelat 50g,Richoco,Wafer,Jakarta,11521,62211380.0,3541,0.07127929963287208,5800.0
+S002,Richoco Wafer Cokelat 50g,Richoco,Wafer,Semarang,2092,11247360.0,645,0.07395348837209302,5800.0
+S002,Richoco Wafer Cokelat 50g,Richoco,Wafer,Surabaya,6159,33202680.0,1906,0.07140608604407135,5800.0
+S003,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,Bandung,4582,43488000.0,1407,0.05110163468372424,10000.0
+S003,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,Jakarta,15757,149552000.0,4895,0.051174668028600614,10000.0
+S003,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,Semarang,2921,27695000.0,900,0.051555555555555556,10000.0
+S003,Richeese Wafer Keju 10g Renceng,Richeese,Wafer,Surabaya,8524,80954000.0,2645,0.05141776937618148,10000.0
+S004,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,Bandung,3820,35467000.0,1180,0.07050847457627119,10000.0
+S004,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,Jakarta,13401,124622000.0,4140,0.06968599033816425,10000.0
+S004,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,Semarang,2514,23380000.0,757,0.07040951122853369,10000.0
+S004,Richoco Wafer Cokelat 10g Renceng,Richoco,Wafer,Surabaya,7367,68498000.0,2234,0.0693822739480752,10000.0
+S005,Nextar Brownies Pie 40g,Nextar,Kue/Pie,Bandung,4228,27409200.0,1324,0.07069486404833837,7000.0
+S005,Nextar Brownies Pie 40g,Nextar,Kue/Pie,Jakarta,14914,97006700.0,4609,0.06979822087220655,7000.0
+S005,Nextar Brownies Pie 40g,Nextar,Kue/Pie,Semarang,2802,18104100.0,845,0.07266272189349113,7000.0
+S005,Nextar Brownies Pie 40g,Nextar,Kue/Pie,Surabaya,8032,52228400.0,2486,0.06934835076427998,7000.0
+S006,Nextar Nastar Pie 30g,Nextar,Kue/Pie,Bandung,4205,27220900.0,1321,0.07607872823618471,7000.0
+S006,Nextar Nastar Pie 30g,Nextar,Kue/Pie,Jakarta,14820,95811100.0,4613,0.07556904400606981,7000.0
+S006,Nextar Nastar Pie 30g,Nextar,Kue/Pie,Semarang,2764,17894100.0,847,0.0742621015348288,7000.0
+S006,Nextar Nastar Pie 30g,Nextar,Kue/Pie,Surabaya,8079,52256400.0,2490,0.07574297188755019,7000.0
+S007,Richeese Siip Keju 20g,Richeese,Extruded Snack,Bandung,3794,10479900.0,1154,0.07954939341421144,3000.0
+S007,Richeese Siip Keju 20g,Richeese,Extruded Snack,Jakarta,13217,36575400.0,4055,0.07802712700369914,3000.0
+S007,Richeese Siip Keju 20g,Richeese,Extruded Snack,Semarang,2390,6627600.0,737,0.07883310719131614,3000.0
+S007,Richeese Siip Keju 20g,Richeese,Extruded Snack,Surabaya,7001,19444500.0,2186,0.07808783165599269,3000.0
+S008,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,Bandung,3902,16673850.0,1173,0.05200341005967604,4500.0
+S008,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,Jakarta,13375,57059550.0,4106,0.05168046760837799,4500.0
+S008,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,Semarang,2442,10434150.0,749,0.051535380507343125,4500.0
+S008,Richoco Ahh! Extruded 15g,Richoco,Extruded Snack,Surabaya,7114,30358350.0,2222,0.05274527452745275,4500.0
+S009,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,Bandung,4613,15185800.0,1433,0.05792044661549198,3500.0
+S009,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,Jakarta,15816,52103800.0,4971,0.05823777911888956,3500.0
+S009,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,Semarang,2923,9642150.0,918,0.0579520697167756,3500.0
+S009,Richeese Mi Instan Keju Pedas,Richeese,Mi Instan,Surabaya,8802,28976150.0,2695,0.057996289424860854,3500.0
+S010,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,Bandung,3767,14192800.0,1164,0.059793814432989686,4000.0
+S010,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,Jakarta,13166,49630800.0,4067,0.05896238013277601,4000.0
+S010,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,Semarang,2434,9176400.0,736,0.058288043478260866,4000.0
+S010,Richeese Mi Instan Ramen Keju,Richeese,Mi Instan,Surabaya,7045,26530000.0,2195,0.05854214123006834,4000.0
+S011,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,Bandung,3165,15023000.0,975,0.049846153846153846,5000.0
+S011,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,Jakarta,11106,52679000.0,3457,0.04978304888631761,5000.0
+S011,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,Semarang,2019,9572500.0,618,0.05048543689320389,5000.0
+S011,Nabati Biskuit Rasa Kelapa,Richeese,Biskuit,Surabaya,6029,28640500.0,1859,0.04878967186659495,5000.0
+S012,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,Bandung,4508,20937500.0,1392,0.07133620689655172,5000.0
+S012,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,Jakarta,15839,73674000.0,4849,0.07020004124561766,5000.0
+S012,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,Semarang,2806,13011500.0,891,0.0718294051627385,5000.0
+S012,Nabati Biskuit Rasa Cokelat,Richoco,Biskuit,Surabaya,8586,39919500.0,2616,0.07037461773700306,5000.0
+S013,Nabati Drinko Richeese 150ml,Richeese,Minuman,Bandung,4659,17457200.0,1469,0.06460176991150443,4000.0
+S013,Nabati Drinko Richeese 150ml,Richeese,Minuman,Jakarta,16110,60372000.0,5071,0.06476040228751727,4000.0
+S013,Nabati Drinko Richeese 150ml,Richeese,Minuman,Semarang,2973,11120000.0,946,0.06617336152219873,4000.0
+S013,Nabati Drinko Richeese 150ml,Richeese,Minuman,Surabaya,8794,32969200.0,2751,0.06415848782260997,4000.0
+S014,Nabati Drinko Richoco 150ml,Richoco,Minuman,Bandung,2848,10718000.0,895,0.05932960893854749,4000.0
+S014,Nabati Drinko Richoco 150ml,Richoco,Minuman,Jakarta,9975,37605600.0,3140,0.058057324840764334,4000.0
+S014,Nabati Drinko Richoco 150ml,Richoco,Minuman,Semarang,1818,6831200.0,558,0.05985663082437276,4000.0
+S014,Nabati Drinko Richoco 150ml,Richoco,Minuman,Surabaya,5460,20530800.0,1695,0.05994100294985251,4000.0
+S015,Richeese Wafer Pink Lava 50g,Richeese,Wafer,Bandung,4015,21025950.0,1237,0.050848827809215846,5500.0
+S015,Richeese Wafer Pink Lava 50g,Richeese,Wafer,Jakarta,13809,72304650.0,4300,0.049511627906976746,5500.0
+S015,Richeese Wafer Pink Lava 50g,Richeese,Wafer,Semarang,2547,13311650.0,785,0.050955414012738856,5500.0
+S015,Richeese Wafer Pink Lava 50g,Richeese,Wafer,Surabaya,7610,39804600.0,2327,0.049806617963042546,5500.0
+S016,Richoco Wafer Hazelnut 50g,Richoco,Wafer,Bandung,3780,21268800.0,1166,0.060891938250428816,6000.0
+S016,Richoco Wafer Hazelnut 50g,Richoco,Wafer,Jakarta,13246,74655000.0,4100,0.061317073170731706,6000.0
+S016,Richoco Wafer Hazelnut 50g,Richoco,Wafer,Semarang,2416,13642800.0,746,0.06233243967828418,6000.0
+S016,Richoco Wafer Hazelnut 50g,Richoco,Wafer,Surabaya,7119,40252800.0,2205,0.06058956916099773,6000.0
+S017,Nextar Choco Delight 40g,Nextar,Kue/Pie,Bandung,2899,19211500.0,901,0.05294117647058824,7000.0
+S017,Nextar Choco Delight 40g,Nextar,Kue/Pie,Jakarta,10308,68225500.0,3194,0.0536944270507201,7000.0
+S017,Nextar Choco Delight 40g,Nextar,Kue/Pie,Semarang,1826,12118400.0,565,0.05345132743362832,7000.0
+S017,Nextar Choco Delight 40g,Nextar,Kue/Pie,Surabaya,5525,36475600.0,1714,0.05466744457409568,7000.0
+S018,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,Bandung,4474,29530200.0,1397,0.05705082319255548,7000.0
+S018,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,Jakarta,15801,104462400.0,4828,0.05617232808616404,7000.0
+S018,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,Semarang,2892,19096700.0,893,0.057222844344904815,7000.0
+S018,Nextar Pineapple Pie 30g,Nextar,Kue/Pie,Surabaya,8477,56150500.0,2616,0.05561926605504587,7000.0
+S019,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,Bandung,3898,10961700.0,1186,0.062141652613827994,3000.0
+S019,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,Jakarta,13458,37890000.0,4153,0.06118468576932338,3000.0
+S019,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,Semarang,2471,6965100.0,754,0.061538461538461535,3000.0
+S019,Richeese Siip Jagung Bakar 20g,Richeese,Extruded Snack,Surabaya,7290,20537700.0,2228,0.05996409335727109,3000.0
+S020,Richeese Mi Instan Goreng,Richeese,Mi Instan,Bandung,3613,11837350.0,1105,0.0644343891402715,3500.0
+S020,Richeese Mi Instan Goreng,Richeese,Mi Instan,Jakarta,12547,41097000.0,3860,0.06419689119170985,3500.0
+S020,Richeese Mi Instan Goreng,Richeese,Mi Instan,Semarang,2280,7459900.0,700,0.06385714285714286,3500.0
+S020,Richeese Mi Instan Goreng,Richeese,Mi Instan,Surabaya,6825,22433250.0,2083,0.06322611617858857,3500.0
