@@ -21,7 +21,7 @@ def load_data():
     matrix_df       = pd.read_csv(os.path.join(base, 'cannibalization_matrix.csv'), index_col=0)
     elast_df        = pd.read_csv(os.path.join(base, 'elasticity_per_sku.csv'))
     forecast_df     = pd.read_csv(os.path.join(base, 'xgb_forecast.csv'))
-    ...
+
     sku_meta = (sku_overview[['SKU_ID','SKU','Brand','SKU_Category']]
                 .drop_duplicates().reset_index(drop=True))
     
