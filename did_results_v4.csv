@@ -1,0 +1,59 @@
+Category,SKU_A,SKU_A_Name,Brand_A,SKU_B,SKU_B_Name,Brand_B,SameBrand,N_Treatment,N_Control,Mean_Treatment,Mean_Control,DiD,DiD_Pct,T_stat,P_one,Significant
+Wafer,S001,Richeese Wafer Keju 50g,Richeese,S002,Richoco Wafer Cokelat 50g,Richoco,False,204,408,0.0702,0.0217,0.0485,4.85,2.2594,0.9879,False
+Wafer,S002,Richoco Wafer Cokelat 50g,Richoco,S001,Richeese Wafer Keju 50g,Richeese,False,128,484,0.0234,0.1108,-0.0874,-8.74,-3.4522,0.0003,True
+Wafer,S001,Richeese Wafer Keju 50g,Richeese,S003,Richeese Wafer Keju 10g Renceng,Richeese,True,204,408,0.0527,0.0418,0.0109,1.09,0.498,0.6907,False
+Wafer,S003,Richeese Wafer Keju 10g Renceng,Richeese,S001,Richeese Wafer Keju 50g,Richeese,True,160,452,-0.0242,0.1338,-0.158,-15.8,-6.9368,0.0,True
+Wafer,S001,Richeese Wafer Keju 50g,Richeese,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,False,204,408,0.085,0.0674,0.0176,1.76,0.7618,0.7768,False
+Wafer,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,S001,Richeese Wafer Keju 50g,Richeese,False,172,440,0.0461,0.1106,-0.0645,-6.45,-2.8094,0.0026,True
+Wafer,S001,Richeese Wafer Keju 50g,Richeese,S015,Richeese Wafer Pink Lava 50g,Richeese,True,204,408,0.0455,0.0841,-0.0387,-3.87,-1.7942,0.0366,True
+Wafer,S015,Richeese Wafer Pink Lava 50g,Richeese,S001,Richeese Wafer Keju 50g,Richeese,True,184,428,0.0052,0.13,-0.1248,-12.48,-5.6476,0.0,True
+Wafer,S001,Richeese Wafer Keju 50g,Richeese,S016,Richoco Wafer Hazelnut 50g,Richoco,False,204,408,0.0999,0.0708,0.0291,2.91,1.3026,0.9034,False
+Wafer,S016,Richoco Wafer Hazelnut 50g,Richoco,S001,Richeese Wafer Keju 50g,Richeese,False,212,400,0.1066,0.085,0.0216,2.16,0.9899,0.8387,False
+Wafer,S002,Richoco Wafer Cokelat 50g,Richoco,S003,Richeese Wafer Keju 10g Renceng,Richeese,False,128,484,0.1176,0.0263,0.0913,9.13,3.6499,0.9999,False
+Wafer,S003,Richeese Wafer Keju 10g Renceng,Richeese,S002,Richoco Wafer Cokelat 50g,Richoco,False,160,452,0.0919,0.0188,0.0731,7.31,3.1887,0.9992,False
+Wafer,S002,Richoco Wafer Cokelat 50g,Richoco,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,True,128,484,0.0665,0.0751,-0.0086,-0.86,-0.3203,0.3744,False
+Wafer,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,S002,Richoco Wafer Cokelat 50g,Richoco,True,172,440,0.0602,0.0292,0.031,3.1,1.3752,0.9152,False
+Wafer,S002,Richoco Wafer Cokelat 50g,Richoco,S015,Richeese Wafer Pink Lava 50g,Richeese,False,128,484,0.0375,0.0802,-0.0427,-4.27,-1.7096,0.0439,True
+Wafer,S015,Richeese Wafer Pink Lava 50g,Richeese,S002,Richoco Wafer Cokelat 50g,Richoco,False,184,428,0.0356,0.0389,-0.0033,-0.33,-0.1494,0.4407,False
+Wafer,S002,Richoco Wafer Cokelat 50g,Richoco,S016,Richoco Wafer Hazelnut 50g,Richoco,True,128,484,-0.0636,0.1186,-0.1822,-18.22,-7.3316,0.0,True
+Wafer,S016,Richoco Wafer Hazelnut 50g,Richoco,S002,Richoco Wafer Cokelat 50g,Richoco,True,212,400,-0.0797,0.1002,-0.1799,-17.99,-8.9658,0.0,True
+Wafer,S003,Richeese Wafer Keju 10g Renceng,Richeese,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,False,160,452,0.0021,0.0985,-0.0964,-9.64,-3.9302,0.0,True
+Wafer,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,S003,Richeese Wafer Keju 10g Renceng,Richeese,False,172,440,0.0288,0.0519,-0.0232,-2.32,-1.0141,0.1555,False
+Wafer,S003,Richeese Wafer Keju 10g Renceng,Richeese,S015,Richeese Wafer Pink Lava 50g,Richeese,True,160,452,0.1864,0.0305,0.1559,15.59,6.9851,1.0,False
+Wafer,S015,Richeese Wafer Pink Lava 50g,Richeese,S003,Richeese Wafer Keju 10g Renceng,Richeese,True,184,428,0.0264,0.0536,-0.0272,-2.72,-1.2143,0.1126,False
+Wafer,S003,Richeese Wafer Keju 10g Renceng,Richeese,S016,Richoco Wafer Hazelnut 50g,Richoco,False,160,452,-0.0339,0.121,-0.155,-15.5,-6.6895,0.0,True
+Wafer,S016,Richoco Wafer Hazelnut 50g,Richoco,S003,Richeese Wafer Keju 10g Renceng,Richeese,False,212,400,-0.0145,0.0772,-0.0917,-9.17,-4.3053,0.0,True
+Wafer,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,S015,Richeese Wafer Pink Lava 50g,Richeese,False,172,440,0.142,0.0436,0.0984,9.84,4.4112,1.0,False
+Wafer,S015,Richeese Wafer Pink Lava 50g,Richeese,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,False,184,428,0.0805,0.0701,0.0104,1.04,0.437,0.6689,False
+Wafer,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,S016,Richoco Wafer Hazelnut 50g,Richoco,True,172,440,0.0271,0.1014,-0.0744,-7.44,-3.1965,0.0007,True
+Wafer,S016,Richoco Wafer Hazelnut 50g,Richoco,S004,Richoco Wafer Cokelat 10g Renceng,Richoco,True,212,400,-0.018,0.1217,-0.1397,-13.97,-6.2841,0.0,True
+Wafer,S015,Richeese Wafer Pink Lava 50g,Richeese,S016,Richoco Wafer Hazelnut 50g,Richoco,False,184,428,-0.055,0.1388,-0.1938,-19.38,-8.967,0.0,True
+Wafer,S016,Richoco Wafer Hazelnut 50g,Richoco,S015,Richeese Wafer Pink Lava 50g,Richeese,False,212,400,-0.0192,0.1192,-0.1384,-13.84,-6.6952,0.0,True
+Minuman,S013,Nabati Drinko Richeese 150ml,Richeese,S014,Nabati Drinko Richoco 150ml,Richoco,False,160,452,0.0113,0.0439,-0.0325,-3.25,-1.4058,0.0802,False
+Minuman,S014,Nabati Drinko Richoco 150ml,Richoco,S013,Nabati Drinko Richeese 150ml,Richeese,False,144,468,-0.0244,0.063,-0.0874,-8.74,-4.1634,0.0,True
+Biskuit,S011,Nabati Biskuit Rasa Kelapa,Richeese,S012,Nabati Biskuit Rasa Cokelat,Richoco,False,180,432,0.001,0.0761,-0.0751,-7.51,-3.4741,0.0003,True
+Biskuit,S012,Nabati Biskuit Rasa Cokelat,Richoco,S011,Nabati Biskuit Rasa Kelapa,Richeese,False,196,416,-0.0238,0.0773,-0.1011,-10.11,-4.6288,0.0,True
+Extruded Snack,S007,Richeese Siip Keju 20g,Richeese,S008,Richoco Ahh! Extruded 15g,Richoco,False,192,420,-0.0075,0.0644,-0.0719,-7.19,-3.8719,0.0001,True
+Extruded Snack,S008,Richoco Ahh! Extruded 15g,Richoco,S007,Richeese Siip Keju 20g,Richeese,False,176,436,-0.014,0.0767,-0.0907,-9.07,-4.473,0.0,True
+Extruded Snack,S007,Richeese Siip Keju 20g,Richeese,S019,Richeese Siip Jagung Bakar 20g,Richeese,True,192,420,-0.0369,0.0954,-0.1323,-13.23,-6.8623,0.0,True
+Extruded Snack,S019,Richeese Siip Jagung Bakar 20g,Richeese,S007,Richeese Siip Keju 20g,Richeese,True,184,428,-0.0147,0.0787,-0.0934,-9.34,-4.6701,0.0,True
+Extruded Snack,S008,Richoco Ahh! Extruded 15g,Richoco,S019,Richeese Siip Jagung Bakar 20g,Richeese,False,176,436,0.0261,0.0651,-0.039,-3.9,-1.9044,0.0287,True
+Extruded Snack,S019,Richeese Siip Jagung Bakar 20g,Richeese,S008,Richoco Ahh! Extruded 15g,Richoco,False,184,428,0.0768,0.0268,0.05,5.0,2.643,0.9958,False
+Mi Instan,S009,Richeese Mi Instan Keju Pedas,Richeese,S010,Richeese Mi Instan Ramen Keju,Richeese,True,156,456,-0.0001,0.0497,-0.0499,-4.99,-2.588,0.0049,True
+Mi Instan,S010,Richeese Mi Instan Ramen Keju,Richeese,S009,Richeese Mi Instan Keju Pedas,Richeese,True,192,420,-0.0272,0.1123,-0.1395,-13.95,-6.9041,0.0,True
+Mi Instan,S009,Richeese Mi Instan Keju Pedas,Richeese,S020,Richeese Mi Instan Goreng,Richeese,True,156,456,0.0936,0.0525,0.0411,4.11,1.7947,0.9634,False
+Mi Instan,S020,Richeese Mi Instan Goreng,Richeese,S009,Richeese Mi Instan Keju Pedas,Richeese,True,156,456,0.0355,0.0798,-0.0443,-4.43,-1.9885,0.0236,True
+Mi Instan,S010,Richeese Mi Instan Ramen Keju,Richeese,S020,Richeese Mi Instan Goreng,Richeese,True,192,420,0.0088,0.0877,-0.0789,-7.89,-3.7028,0.0001,True
+Mi Instan,S020,Richeese Mi Instan Goreng,Richeese,S010,Richeese Mi Instan Ramen Keju,Richeese,True,156,456,0.008,0.0469,-0.0389,-3.89,-2.014,0.0222,True
+Kue/Pie,S005,Nextar Brownies Pie 40g,Nextar,S006,Nextar Nastar Pie 30g,Nextar,True,208,404,0.0187,0.0614,-0.0427,-4.27,-2.1365,0.0165,True
+Kue/Pie,S006,Nextar Nastar Pie 30g,Nextar,S005,Nextar Brownies Pie 40g,Nextar,True,156,456,-0.0321,0.1148,-0.1469,-14.69,-5.8206,0.0,True
+Kue/Pie,S005,Nextar Brownies Pie 40g,Nextar,S017,Nextar Choco Delight 40g,Nextar,True,208,404,0.0132,0.0591,-0.0459,-4.59,-2.3344,0.01,True
+Kue/Pie,S017,Nextar Choco Delight 40g,Nextar,S005,Nextar Brownies Pie 40g,Nextar,True,136,476,-0.0309,0.1083,-0.1392,-13.92,-5.2353,0.0,True
+Kue/Pie,S005,Nextar Brownies Pie 40g,Nextar,S018,Nextar Pineapple Pie 30g,Nextar,True,208,404,0.0894,0.0744,0.015,1.5,0.6507,0.7422,False
+Kue/Pie,S018,Nextar Pineapple Pie 30g,Nextar,S005,Nextar Brownies Pie 40g,Nextar,True,152,460,0.0907,0.0729,0.0178,1.78,0.681,0.7519,False
+Kue/Pie,S006,Nextar Nastar Pie 30g,Nextar,S017,Nextar Choco Delight 40g,Nextar,True,156,456,0.0357,0.0461,-0.0104,-1.04,-0.4867,0.3133,False
+Kue/Pie,S017,Nextar Choco Delight 40g,Nextar,S006,Nextar Nastar Pie 30g,Nextar,True,136,476,-0.0103,0.0632,-0.0735,-7.35,-3.2436,0.0006,True
+Kue/Pie,S006,Nextar Nastar Pie 30g,Nextar,S018,Nextar Pineapple Pie 30g,Nextar,True,156,456,-0.037,0.1194,-0.1564,-15.64,-6.4547,0.0,True
+Kue/Pie,S018,Nextar Pineapple Pie 30g,Nextar,S006,Nextar Nastar Pie 30g,Nextar,True,152,460,0.0204,0.0556,-0.0353,-3.53,-1.6067,0.0543,False
+Kue/Pie,S017,Nextar Choco Delight 40g,Nextar,S018,Nextar Pineapple Pie 30g,Nextar,True,136,476,-0.0197,0.1079,-0.1276,-12.76,-4.9584,0.0,True
+Kue/Pie,S018,Nextar Pineapple Pie 30g,Nextar,S017,Nextar Choco Delight 40g,Nextar,True,152,460,0.0335,0.0468,-0.0133,-1.33,-0.6132,0.27,False
