@@ -13,7 +13,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    base = os.path.dirname(_file_)
+    base = os.path.dirname(__file__)
     sku_overview     = pd.read_csv(os.path.join(base, 'sku_overview.csv'))
     price_lookup_df  = pd.read_csv(os.path.join(base, 'price_lookup.csv'))
     matrix_df        = pd.read_csv(os.path.join(base, 'cannibalization_matrix.csv'), index_col=0)
