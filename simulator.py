@@ -342,6 +342,8 @@ with tab3:
     branch_filter = st.selectbox("Branch", ['All','Jakarta','Surabaya','Bandung','Semarang'])
     df_view = df if branch_filter == 'All' else df[df['Branch'] == branch_filter]
 
+    st.write(df.columns.tolist())
+    
     sku_summary = (df_view.groupby(['SKU_ID','SKU','Brand','SKU_Category'])
                           .agg(
                               TotalQty=('Qty','sum'),
