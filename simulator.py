@@ -343,6 +343,7 @@ with tab3:
     df_view = df if branch_filter == 'All' else df[df['Branch'] == branch_filter]
 
     st.write(df.columns.tolist())
+    st.stop()
     
     sku_summary = (df_view.groupby(['SKU_ID','SKU','Brand','SKU_Category'])
                           .agg(
