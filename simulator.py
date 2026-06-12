@@ -10,14 +10,14 @@ st.set_page_config(
     page_icon="📊",
     layout="wide"
 )
-
 @st.cache_data
 def load_data():
-    sku_overview = pd.read_csv('sku_overview.csv')
-    price_lookup_df = pd.read_csv('price_lookup.csv')
-    matrix_df   = pd.read_csv('cannibalization_matrix.csv', index_col=0)
-    elast_df    = pd.read_csv('elasticity_per_sku.csv')
-    forecast_df = pd.read_csv('xgb_forecast.csv')
+    base = os.path.dirname(_file_)
+    sku_overview     = pd.read_csv(os.path.join(base, 'sku_overview.csv'))
+    price_lookup_df  = pd.read_csv(os.path.join(base, 'price_lookup.csv'))
+    matrix_df        = pd.read_csv(os.path.join(base, 'cannibalization_matrix.csv'), index_col=0)
+    elast_df         = pd.read_csv(os.path.join(base, 'elasticity_per_sku.csv'))
+    forecast_df      = pd.read_csv(os.path.join(base, 'xgb_forecast.csv'))
 
     sku_meta = (sku_overview[['SKU_ID','SKU','Brand','SKU_Category']]
                 .drop_duplicates().reset_index(drop=True))
